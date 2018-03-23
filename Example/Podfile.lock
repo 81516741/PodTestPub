@@ -1,0 +1,16 @@
+PODS:
+  - PodTestPub (0.1.0)
+
+DEPENDENCIES:
+  - PodTestPub (from `../`)
+
+EXTERNAL SOURCES:
+  PodTestPub:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodTestPub: 60c3e7a6037b033f72d9d6ecc02599328ec664e0
+
+PODFILE CHECKSUM: 15dff18f1a4ee0885566a29ed3695987f04715c4
+
+COCOAPODS: 1.4.0
